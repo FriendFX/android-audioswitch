@@ -1,7 +1,7 @@
 PACKAGE_NAME = io.github.friendfx.android_audioswitch
 ACTIVITY_NAME = MainActivity
 
-.PHONY android_build  android_run
+.PHONY: android_build android_run
 
 android_build:
 	gradle build -info
