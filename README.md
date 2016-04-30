@@ -30,7 +30,7 @@ In addition, I recently got a bit involved with mobile app development and final
 
 ### Building/Installing/Running
 
-The included Makefile lets you `make android_run` which builds and install it on the device as well as starting the app. If you don't have a device or just want to build, use `make build`.
+The included Makefile lets you `make android_run` which builds and install it on the device as well as starting the app. If you don't have a device or just want to build, use `make android_build`.
 
 
 ## Credits
